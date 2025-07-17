@@ -1,0 +1,44 @@
+# Calendly-for-VA-Learning
+
+Calendly-for-VA-Learning/
+│
+├── level_0_introduction/
+│   ├── 00-why-calendly-for-va.md
+│   └── 01-create-calendly-account.md
+│
+├── level_1_basic-setup/
+│   ├── 02-set-timezone-and-availability.md
+│   ├── 03-connect-calendar-google-outlook.md
+│   ├── 04-set-up-basic-event-type.md
+│   ├── 05-customize-event-links.md
+│   └── 06-test-your-scheduling-page.md
+│
+├── level_2-scheduling-workflows/
+│   ├── 07-one-on-one-meetings.md
+│   ├── 08-buffer-time-setup.md
+│   ├── 09-limit-daily-meetings.md
+│   ├── 10-create-group-events.md
+│   └── 11-invitee-questions-and-reminders.md
+│
+├── level_3-client-specific-use/
+│   ├── 12-branding-your-calendly.md
+│   ├── 13-multiple-event-types-for-clients.md
+│   ├── 14-block-off-days-and-custom-hours.md
+│   ├── 15-create-client-intake-forms.md
+│   └── 16-how-to-send-client-your-link.md
+│
+├── level_4-automation-integration/
+│   ├── 17-calendly-gmail-auto-replies.md
+│   ├── 18-calendly-google-calendar-sync.md
+│   ├── 19-zapier-for-client-reminders.md
+│   ├── 20-link-to-zoom-meetings.md
+│   └── 21-connect-calendly-to-crm-tools.md
+│
+├── level_5-advanced-va-usage/
+│   ├── 22-round-robin-scheduling.md
+│   ├── 23-paid-sessions-integration.md
+│   ├── 24-workflows-for-follow-up-emails.md
+│   ├── 25-embed-calendly-on-website.md
+│   └── 26-best-practices-for-client-booking.md
+│
+└── roadmap.md
